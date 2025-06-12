@@ -1,0 +1,59 @@
+[{
+  "_id": {
+    "$oid": "684a6b94a1481493f49d188e"
+  },
+  "nama": "Nasi Goreng",
+  "bahan": [
+    "Nasi",
+    "Bawang putih",
+    "Kecap",
+    "Telur"
+  ],
+  "waktu_masak": 20,
+  "tingkat_kesulitan": "Mudah",
+  "porsi": 3
+},
+{
+  "_id": {
+    "$oid": "684a6b94a1481493f49d188f"
+  },
+  "nama": "Soto Ayam",
+  "bahan": [
+    "Ayam",
+    "Sereh",
+    "Bawang goreng",
+    "Soun"
+  ],
+  "waktu_masak": 45,
+  "tingkat_kesulitan": "Sedang",
+  "porsi": 4
+},
+{
+  "_id": {
+    "$oid": "684a6c37a1481493f49d1891"
+  },
+  "nama": "Sayur Bayam",
+  "bahan": [
+    "Bayam",
+    "Wortel",
+    "Bawang putih"
+  ],
+  "waktu_masak": 15,
+  "tingkat_kesulitan": "Mudah",
+  "porsi": 3
+},
+{
+  "_id": {
+    "$oid": "684a6c37a1481493f49d1892"
+  },
+  "nama": "Rendang",
+  "bahan": [
+    "Daging sapi",
+    "Santan",
+    "Cabai",
+    "Rempah"
+  ],
+  "waktu_masak": 120,
+  "tingkat_kesulitan": "Sulit",
+  "porsi": 5
+}]
